@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="TR:TRT1 HD" tvg-logo="http://cccam.vdns.info/logo/trt1.png" group-title="Turkey [TR]",TR:TRT1 HD
 http://vizyon.pw:8080/live/erkin.9gmx.de/U381SGD6/3460.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT1 HD" tvg-logo="http://cccam.vdns.info/logo/star_tv_tr.png" group-title="Turkey [TR]",TR:STAR HD
-http://vizyon.pw:8080/live/erkin.9gmx.de/U381SGD6/745.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TR:STAR HD" tvg-logo="http://cccam.vdns.info/logo/star_tv_tr.png" group-title="Turkey [TR]",TR:STAR HD
 http://vizyon.pw:8080/live/erkin.9gmx.de/U381SGD6/745.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TR:ATV HD" tvg-logo="http://cccam.vdns.info/logo/atv_tr.png" group-title="Turkey [TR]",TR:ATV HD
